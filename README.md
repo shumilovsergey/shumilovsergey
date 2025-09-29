@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- ☯ I’m Dev for Ops and Ops for Devs
-- 🚀 I’m working more to work much less
+### ☯ I’m Dev for Ops and Ops for Devs
+### 🚀 I’m working more to work much less
 
-🌐 **Find me online:**  
-[🌍 mywebsite.com](https://sh-development.ru)
+### 🌹 Roses are red, YAML is blue
+### 🌐 My [website](https://sh-development.ru/) is live and waiting for you
