@@ -5,3 +5,7 @@
 
 ### 🌹 Roses are red, YAML is blue
 ### 🌐 My [website](https://sh-development.ru/) is live and waiting for you
+
+---
+
+[[ CI-CD github Organisation ](https://github.com/orgs/sh-devment/repositories)]
